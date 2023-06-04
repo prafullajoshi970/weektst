@@ -1,0 +1,10 @@
+.Awardmain{
+    background: linear-gradient(110deg, rgb(35, 6, 6) 30% , rgb(69, 86, 2) 50%  , rgb(2, 60, 82) 80% , rgb(19, 1, 49) );
+    display: flex;
+    justify-content: space-around;
+}
+.Awardmid{
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}

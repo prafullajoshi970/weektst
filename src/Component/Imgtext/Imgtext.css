@@ -1,0 +1,28 @@
+#imgtextmain{
+    background: linear-gradient(110deg, rgb(32, 31, 31) 60%, rgb(76, 75, 75) 60%);
+    height: 50vh;
+    text-align: center;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.imgtextbtn{
+    width:150px;
+    height:40px;
+    text-decoration: none;
+    background-color: rgb(61, 61, 151);
+    color: beige;
+    border: 0px;
+    border-radius: 20px;
+}
+.imgtextbtn:hover{
+    height:43px;
+    width:152px;
+    background-color: rgb(44, 44, 114);
+  
+}
+.imgtextp{
+    font-size: small;
+}

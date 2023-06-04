@@ -1,0 +1,19 @@
+.headermain{
+    display: flex;
+    justify-content: space-between;
+}
+.headerlefth1,.headerleftp{
+    margin: 0%;
+}
+.headerright{
+    margin: 2%;
+}
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+    font-size: large;
+}
