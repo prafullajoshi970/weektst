@@ -2,6 +2,7 @@
    height:50px;
    width: 50px;
    flex-wrap: wrap;
+   margin:2px
 }
 .imggallery{
    display: flex;
@@ -14,6 +15,8 @@
 }
 .footermain{
     display: flex;
+    background-color: black;
+    color: aliceblue;
 }
 p{
     font-size: smaller;
